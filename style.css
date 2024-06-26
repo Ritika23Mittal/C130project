@@ -1,0 +1,32 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    background-color: rgb(161, 122, 72);
+    color: white;
+    font-family: cursive;
+}
+
+.note {
+    font-size: 15px;
+    color: rgb(222, 197, 163);
+    
+}
+
+body {
+    background-size: cover;
+}
+
+#song_name{
+    font-size: 25px;
+    background-color:rgb(158, 102, 28);
+    color: antiquewhite;
+    width: 30%;
+    font-family:'Times New Roman', Times, serif;
+}
+
+canvas {
+    border: 5px solid rgb(133, 109, 78);
+    border-radius: 20px;
+    box-shadow: 10px solid rgb(58, 41, 20);
+}
